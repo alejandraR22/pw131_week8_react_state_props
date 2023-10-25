@@ -1,0 +1,80 @@
+
+.landing-page {
+    background-color: #007bff;  
+    color: #fff; 
+    padding: 20px; 
+    text-align: center; 
+}
+  
+.landing-page h1 {
+    font-size: 36px; 
+}
+  
+.landing-page p {
+    font-size: 18px; 
+}
+  
+.landing-page .button {
+    background-color: #fff; 
+    color: #007bff; 
+    padding: 10px 20px; 
+    border: none; 
+    cursor: pointer;
+}
+  
+  
+.landing-page .button:hover {
+    background-color: #0056b3;
+}
+  
+.todo-app {
+    background-color: #f4f4f4; 
+    padding: 20px; 
+    text-align: center; 
+}
+  
+.todo-app h1 {
+    font-size: 24px; 
+    color: #333; 
+}
+  
+.todo-app .input-container {
+    margin-top: 20px; 
+}
+  
+.todo-app input[type="text"] {
+    width: 60%; 
+    padding: 10px; 
+}
+  
+.todo-app button {
+    background-color: #007bff; 
+    color: #fff; 
+    padding: 10px 20px; 
+    border: none; 
+    cursor: pointer;
+}
+  
+.todo-app button:hover {
+    background-color: #0056b3; 
+}
+  
+.todo-app ul {
+    list-style: none; 
+    padding: 0;
+    text-align: left; 
+}
+  
+.todo-app li {
+    font-size: 18px; 
+    margin: 10px 0; 
+}
+  
+.todo-app button.remove {
+    background-color: #ff0000; 
+    color: #fff; 
+    padding: 5px 10px; 
+    border: none; 
+    cursor: pointer;
+}
+  
